@@ -1,0 +1,270 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "announcement.testflight.action" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download i App Store"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im App Store herunterladen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download in the App Store"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargar en la App Store"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécharger dans l’App Store"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scarica nell'App Store"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Storeでダウンロード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 스토어에서 다운로드"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Downloaden in de App Store"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download na App Store"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descarregar na App Store"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузить в App Store"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Завантажити в App Store"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在应用程序商店下载"
+          }
+        }
+      }
+    },
+    "announcement.testflight.message %@" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mange tak for den vigtige rolle, du spillede i %@ betatesten. Dit bidrag har været ekstremt værdifuldt.\nBetafasen er nu slut, og du kan installere programmet direkte fra App Store.\nOpgradering til App Store-versionen sletter ikke de data, du oprettede, da du brugte betaversionen."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein herzliches Dankeschön für die entscheidende Rolle, die Sie beim Betatest von %@ gespielt haben. Ihr Beitrag war äußerst wertvoll.\nDie Betaphase ist nun abgeschlossen und Sie können die Anwendung direkt aus dem App Store installieren.\nDas Upgrade auf die App-Store-Version löscht nicht die Daten, die Sie bei der Verwendung der Beta-Version erstellt haben."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huge thanks for your vital role in %@ beta testing. Your input was incredibly valuable.\n\nThe beta phase has now ended, and you may install the app directly from the App Store.\n\nUpgrading to the App Store version will not delete the data you created while using the beta."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muchas gracias por el papel esencial que ha desempeñado en la prueba beta de %@. Su contribución ha sido extremadamente valiosa.\nLa fase beta ya ha terminado y puedes instalar la aplicación directamente desde la App Store.\nLa actualización a la versión de la App Store no borrará los datos que hayas creado al utilizar la versión beta."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un grand merci pour le rôle essentiel que vous avez joué dans le test bêta de %@. Votre contribution a été extrêmement précieuse.\nLa phase bêta est maintenant terminée et vous pouvez installer l’application directement à partir de l’App Store.\nLa mise à niveau vers la version App Store ne supprimera pas les données que vous avez créées lors de l’utilisation de la version bêta."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie per il ruolo fondamentale che avete svolto nel beta test di %@. Il vostro contributo è stato estremamente prezioso.\nLa fase beta è terminata e potete installare l'applicazione direttamente dall'App Store.\nL'aggiornamento alla versione App Store non cancellerà i dati creati durante l'utilizzo della versione beta."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベータテストでの重要な役割に感謝します。皆様の貢献は非常に貴重なものでした。\nベータ版は終了し、App Storeから直接アプリケーションをインストールできるようになりました。\nApp Storeバージョンにアップグレードしても、ベータ版で作成したデータは削除されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "베타 테스트에서 중요한 역할을 해주신 여러분께 감사드립니다. 여러분의 기여는 매우 소중했습니다.\n이제 베타 단계가 종료되었으며 App Store에서 바로 애플리케이션을 설치할 수 있습니다.\nApp Store 버전으로 업그레이드해도 베타 버전을 사용할 때 생성한 데이터는 삭제되지 않습니다."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hartelijk dank voor de essentiële rol die je hebt gespeeld in de %@ bètatest. Uw bijdrage was zeer waardevol.\nDe bètafase is nu voorbij en je kunt de applicatie rechtstreeks vanuit de App Store installeren.\nDoor te upgraden naar de App Store-versie worden de gegevens die je hebt gemaakt tijdens het gebruik van de bètaversie niet verwijderd."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muito obrigado pelo papel essencial que você desempenhou no teste beta %@. Sua contribuição foi extremamente valiosa.\nA fase beta já terminou e você pode instalar o aplicativo diretamente da App Store.\nA atualização para a versão da App Store não excluirá os dados que você criou ao usar a versão beta."
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muito obrigado pelo papel essencial que desempenhou no teste beta %@. A sua contribuição foi extremamente valiosa.\nA fase beta terminou e pode instalar a aplicação diretamente a partir da App Store.\nA atualização para a versão da App Store não elimina os dados criados durante a utilização da versão beta."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Большое спасибо за важную роль, которую вы сыграли в бета-тестировании %@. Ваш вклад был чрезвычайно ценным.\nТеперь бета-тестирование завершено, и вы можете установить приложение непосредственно из App Store.\nОбновление до версии App Store не приведет к удалению данных, созданных вами при использовании бета-версии."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щиро дякуємо за важливу роль, яку ви відіграли у бета-тестуванні %@. Ваш внесок був надзвичайно цінним.\nФаза бета-тестування завершена, і ви можете встановити додаток безпосередньо з App Store.\nОновлення до версії App Store не призведе до видалення даних, які ви створили під час використання бета-версії."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非常感谢你们在 %@ beta 测试中发挥的重要作用。您的贡献非常宝贵。\n测试阶段现已结束，您可以直接从 App Store 安装应用程序。\n升级到 App Store 版本不会删除您在使用测试版时创建的数据。"
+          }
+        }
+      }
+    },
+    "announcement.testflight.title %@" : {
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ er nu tilgængelig i App Store!"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ist jetzt im App Store erhältlich!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is now available in the App Store!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡%@ ya está disponible en la App Store!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ est maintenant disponible dans l’App Store !"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ è ora disponibile sull'App Store!"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "は現在App Storeで入手可能です！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 스토어에서 %@을 사용할 수 있습니다!"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is nu beschikbaar in de App Store!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O %@ já está disponível na App Store!"
+          }
+        },
+        "pt-PT" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ já está disponível na App Store!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ теперь доступен в App Store!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ тепер доступний в App Store!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 现已在 App Store 上架！"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
