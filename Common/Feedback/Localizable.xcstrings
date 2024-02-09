@@ -54,7 +54,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wijzigingen negeren en sluiten"
+            "value" : "Negeer wijzigingen en sluit"
           }
         },
         "pt-BR" : {
@@ -142,7 +142,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle wijzigingen gaan verloren"
+            "value" : "Alle wijzigingen zullen verloren gaan"
           }
         },
         "pt-BR" : {
@@ -318,7 +318,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deze e-mail lijkt ongeldig; controleer de geldigheid of verwijder hem"
+            "value" : "Dit e-mailadres lijkt ongeldig. Controleer of verwijder het e-mailadres."
           }
         },
         "pt-BR" : {
@@ -406,7 +406,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uw e-mailadres zal niet worden gebruikt voor andere doeleinden dan om u te antwoorden"
+            "value" : "Je e-mailadres wordt niet gebruikt voor andere doeleinden dan om te reageren op je bericht"
           }
         },
         "pt-BR" : {
@@ -494,7 +494,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Te veel pogingen! Wacht een paar seconden en probeer het dan opnieuw"
+            "value" : "Teveel pogingen! Wacht een paar seconden en probeer het dan opnieuw"
           }
         },
         "pt-BR" : {
@@ -670,7 +670,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annuleren"
+            "value" : "Annuleer"
           }
         },
         "pt-BR" : {
@@ -758,7 +758,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maak een selectie..."
+            "value" : "Maak een selectie…"
           }
         },
         "pt-BR" : {
@@ -846,7 +846,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verzenden"
+            "value" : "Stuur"
           }
         },
         "pt-BR" : {
@@ -1110,7 +1110,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporteer een bug"
+            "value" : "Bug melden"
           }
         },
         "pt-BR" : {
@@ -1198,7 +1198,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vraag een feature aan"
+            "value" : "Functie aanvragen"
           }
         },
         "pt-BR" : {
@@ -1374,7 +1374,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ik heb hulp nodig!"
+            "value" : "Ik heb hulp nodig"
           }
         },
         "pt-BR" : {
@@ -1550,7 +1550,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ik heb een commerciële use case"
+            "value" : "Commerciële vraag"
           }
         },
         "pt-BR" : {

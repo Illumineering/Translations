@@ -54,7 +54,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kon de vragen niet laden van het web."
+            "value" : "Vragen konden niet worden geladen van het web."
           }
         },
         "pt-BR" : {
@@ -142,7 +142,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "FAQ & Ondersteuning"
+            "value" : "FAQ & ondersteuning"
           }
         },
         "pt-BR" : {

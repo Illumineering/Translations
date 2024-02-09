@@ -321,7 +321,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feedback sturen"
+            "value" : "Stuur feedback"
           }
         },
         "pt-BR" : {
@@ -410,7 +410,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leg een nieuwe functie uit, beschrijf een probleem dat je ondervindt of doe de groeten..."
+            "value" : "Bijvoorbeeld: 'ik snap een functie niet', 'ik heb een bug gevonden' of zeg iets leuks…"
           }
         },
         "pt-BR" : {
@@ -588,7 +588,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iMessage app"
+            "value" : "iMessage-app"
           }
         },
         "pt-BR" : {
@@ -855,7 +855,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mastodont"
+            "value" : "Mastodon"
           }
         },
         "pt-BR" : {
@@ -1033,7 +1033,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onze toepassingen"
+            "value" : "Onze apps"
           }
         },
         "pt-BR" : {
@@ -1745,7 +1745,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toegang tot het beschermde item"
+            "value" : "Bekijk beschermd onderdeel"
           }
         },
         "pt-BR" : {
@@ -1834,7 +1834,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verminder"
+            "value" : "Vouw samen"
           }
         },
         "pt-BR" : {
@@ -2012,7 +2012,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Categorie opslaan"
+            "value" : "Bewaar nieuwe categorie"
           }
         },
         "pt-BR" : {
@@ -2101,7 +2101,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pictogram"
+            "value" : "Symbool"
           }
         },
         "pt-BR" : {
@@ -2190,7 +2190,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naam van de categorie"
+            "value" : "Categorienaam"
           }
         },
         "pt-BR" : {
@@ -2279,7 +2279,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Categorie wijzigen"
+            "value" : "Wijzig categorie"
           }
         },
         "pt-BR" : {
@@ -2368,7 +2368,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ontwikkel"
+            "value" : "Vouw uit"
           }
         },
         "pt-BR" : {
@@ -2457,7 +2457,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Categorieën reorganiseren"
+            "value" : "Orden categorieën opnieuw"
           }
         },
         "pt-BR" : {
@@ -2546,7 +2546,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijgeven voor opname"
+            "value" : "Laat los om te bewaren"
           }
         },
         "pt-BR" : {
@@ -2635,7 +2635,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Annuleren"
+            "value" : "Annuleer"
           }
         },
         "pt-BR" : {
@@ -2724,7 +2724,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wijzigingen negeren"
+            "value" : "Bewaar wijzigingen niet"
           }
         },
         "pt-BR" : {
@@ -2813,7 +2813,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je staat op het punt al je wijzigingen te verliezen"
+            "value" : "Je wijzigingen zullen verloren gaan."
           }
         },
         "pt-BR" : {
@@ -2991,7 +2991,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sociale netwerken"
+            "value" : "Sociale-netwerken"
           }
         },
         "pt-BR" : {
@@ -3079,7 +3079,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item kopiëren"
+            "value" : "Kopieer onderdeel"
           }
         },
         "pt-BR" : {
@@ -3168,7 +3168,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopieer de inhoud van ${textItem}"
+            "value" : "Kopieert de inhoud van ${textItem}"
           }
         },
         "pt-BR" : {
@@ -3256,7 +3256,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De inhoud van een element kopiëren"
+            "value" : "Kopieer inhoud van onderdeel"
           }
         },
         "pt-BR" : {
@@ -3344,7 +3344,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item maken"
+            "value" : "Maak onderdeel aan"
           }
         },
         "pt-BR" : {
@@ -3433,7 +3433,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een nieuw element maken"
+            "value" : "Maakt een nieuw onderdeel aan"
           }
         },
         "pt-BR" : {
@@ -3521,7 +3521,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een nieuw element maken"
+            "value" : "Maak nieuw onderdeel aan"
           }
         },
         "pt-BR" : {
@@ -3609,7 +3609,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Element"
+            "value" : "Onderdeel"
           }
         },
         "pt-BR" : {
@@ -3832,19 +3832,19 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld element"
+                  "value" : "%lld onderdeel"
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld elementen"
+                  "value" : "%lld onderdelen"
                 }
               },
               "zero" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Geen element"
+                  "value" : "Geen onderdelen"
                 }
               }
             }
@@ -4044,7 +4044,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verkrijg de inhoud van ${textItem}"
+            "value" : "Haalt de inhoud op van ${textItem}"
           }
         },
         "pt-BR" : {
@@ -4132,7 +4132,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De inhoud van een element ophalen"
+            "value" : "Haal inhoud op van onderdeel"
           }
         },
         "pt-BR" : {
@@ -4221,7 +4221,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item openen"
+            "value" : "Open onderdeel"
           }
         },
         "pt-BR" : {
@@ -4310,7 +4310,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Open ${textItem} in SharePal"
+            "value" : "Opent ${textItem} in SharePal"
           }
         },
         "pt-BR" : {
@@ -4398,7 +4398,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item openen in SharePal"
+            "value" : "Open onderdeel in SharePal"
           }
         },
         "pt-BR" : {
@@ -4574,7 +4574,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Element"
+            "value" : "Onderdeel"
           }
         },
         "pt-BR" : {
@@ -4838,7 +4838,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item delen"
+            "value" : "Deel onderdeel"
           }
         },
         "pt-BR" : {
@@ -4927,7 +4927,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deel ${textItem} met SharePal"
+            "value" : "Deelt ${textItem} met SharePal"
           }
         },
         "pt-BR" : {
@@ -5015,7 +5015,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item delen met SharePal"
+            "value" : "Deel onderdeel met SharePal"
           }
         },
         "pt-BR" : {
@@ -5103,7 +5103,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Element #%lld"
+            "value" : "Onderdeel #%lld"
           }
         },
         "pt-BR" : {
@@ -5192,7 +5192,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item toevoegen"
+            "value" : "Voeg onderdeel toe"
           }
         },
         "pt-BR" : {
@@ -5370,7 +5370,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voeg  toe"
+            "value" : "Voeg toe"
           }
         },
         "pt-BR" : {
@@ -5459,7 +5459,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nieuw item"
+            "value" : "Nieuw onderdeel"
           }
         },
         "pt-BR" : {
@@ -5548,7 +5548,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nee, annuleren"
+            "value" : "Nee, annuleer"
           }
         },
         "pt-BR" : {
@@ -5637,7 +5637,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ja, verwijderen!"
+            "value" : "Ja, verwijder!"
           }
         },
         "pt-BR" : {
@@ -5726,7 +5726,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weet je zeker dat je dit element wilt verwijderen?"
+            "value" : "Weet je zeker dat je dit onderdeel wilt verwijderen?"
           }
         },
         "pt-BR" : {
@@ -5815,7 +5815,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Type om categorie te wijzigen"
+            "value" : "Druk om de categorie van het onderdeel bij te werken"
           }
         },
         "pt-BR" : {
@@ -5993,7 +5993,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "Gereed"
           }
         },
         "pt-BR" : {
@@ -6349,7 +6349,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een nieuwe categorie maken"
+            "value" : "Maak nieuwe categorie aan"
           }
         },
         "pt-BR" : {
@@ -6438,7 +6438,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uncategorized"
+            "value" : "Niet gecategoriseerd"
           }
         },
         "pt-BR" : {
@@ -6527,7 +6527,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je adres, je IBAN, een URL, alles wat je kunt delen"
+            "value" : "Je adres, IBAN, een URL, alles wat je kunt delen"
           }
         },
         "pt-BR" : {
@@ -6705,7 +6705,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sla"
+            "value" : "Bewaar"
           }
         },
         "pt-BR" : {
@@ -6794,7 +6794,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopie"
+            "value" : "Kopieer"
           }
         },
         "pt-BR" : {
@@ -6972,7 +6972,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dubbele"
+            "value" : "Dupliceer"
           }
         },
         "pt-BR" : {
@@ -7061,7 +7061,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aanpassen"
+            "value" : "Wijzig"
           }
         },
         "pt-BR" : {
@@ -7150,7 +7150,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bezoek"
+            "value" : "Open"
           }
         },
         "pt-BR" : {
@@ -7239,7 +7239,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onthullen"
+            "value" : "Toon"
           }
         },
         "pt-BR" : {
@@ -7506,7 +7506,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesloten"
+            "value" : "Vergrendeld"
           }
         },
         "pt-BR" : {
@@ -8752,7 +8752,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle elementen"
+            "value" : "Alle onderdelen"
           }
         },
         "pt-BR" : {
@@ -8841,7 +8841,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Een item maken"
+            "value" : "Maak onderdeel aan"
           }
         },
         "pt-BR" : {
@@ -9019,7 +9019,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sluit het toetsenbord"
+            "value" : "Sluit toetsenbord"
           }
         },
         "pt-BR" : {
@@ -9108,7 +9108,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schakel volledige toegang in de instellingen in om het SharePal-toetsenbord te gebruiken"
+            "value" : "Sta volledige toegang toe in de instellingen om het SharePal-toetsenbord te gebruiken"
           }
         },
         "pt-BR" : {
@@ -9197,7 +9197,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ga naar"
+            "value" : "Sla over"
           }
         },
         "pt-BR" : {
@@ -9375,7 +9375,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wil je iets weten? Deel het in een oogwenk met de geïntegreerde iMessage-applicatie."
+            "value" : "Vraagt iemand je om iets? Deel het in een oogwenk met de ingebouwde iMessage-app."
           }
         },
         "pt-BR" : {
@@ -9553,7 +9553,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adressen, codes, RIB's, links, enz.\nVoeg ze toe aan SharePal!"
+            "value" : "Adressen, codes, IBAN, links, enz.\nVoeg ze toe aan SharePal!"
           }
         },
         "pt-BR" : {
@@ -9642,7 +9642,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informatie vaak gedeeld?"
+            "value" : "Deel je sommige dingen vaak?"
           }
         },
         "pt-BR" : {
@@ -9731,7 +9731,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gebruik je een andere e-mailservice?\nEen webformulier aan het invullen?\nHet SharePal toetsenbord is altijd binnen handbereik!"
+            "value" : "Gebruik je een andere berichten-app?\nBen je een formulier aan het invullen?\nHet SharePal-toetsenbord is altijd binnen handbereik!"
           }
         },
         "pt-BR" : {
@@ -9820,7 +9820,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uw informatie binnen handbereik!"
+            "value" : "Jouw gegevens binnen handbereik!"
           }
         },
         "pt-BR" : {
@@ -10176,7 +10176,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen overeenkomstig item."
+            "value" : "Geen overeenkomend onderdeel"
           }
         },
         "pt-BR" : {
@@ -10265,7 +10265,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Instellingen openen"
+            "value" : "Open Instellingen"
           }
         },
         "pt-BR" : {
@@ -10354,7 +10354,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je kunt de inhoud van het item in de lijst verbergen en het biometrisch beveiligen."
+            "value" : "Je kunt de inhoud van het onderdeel in de lijst verbergen en het biometrisch beveiligen."
           }
         },
         "pt-BR" : {
@@ -10532,7 +10532,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Open een gesprek in de applicatie Berichten"
+            "value" : "1. Open een gesprek in de Berichten-app"
           }
         },
         "pt-BR" : {
@@ -10621,7 +10621,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2. Zoek en tik op het SharePal-pictogram"
+            "value" : "2. Zoek en tik op het SharePal-symbool"
           }
         },
         "pt-BR" : {
@@ -10710,7 +10710,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. Selecteer het item dat je wilt delen in een handomdraai!"
+            "value" : "3. Kies het onderdeel dat je wilt delen!"
           }
         },
         "pt-BR" : {
@@ -10799,7 +10799,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deel je nieuws in een oogwenk met de geïntegreerde iMessage-applicatie."
+            "value" : "Deel je gegevens in een oogwenk met de geïntegreerde iMessage-app."
           }
         },
         "pt-BR" : {
@@ -10977,7 +10977,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Open de instellingen"
+            "value" : "1. Open Instellingen"
           }
         },
         "pt-BR" : {
@@ -11066,7 +11066,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2. Kies \"Toetsenborden"
+            "value" : "2. Kies Toetsenborden"
           }
         },
         "pt-BR" : {
@@ -11155,7 +11155,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. Activeer het \"SharePal\"-toetsenbord"
+            "value" : "3. Activeer het SharePal-toetsenbord"
           }
         },
         "pt-BR" : {
@@ -11511,7 +11511,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Volledige toegang autoriseren"
+            "value" : "Volledige toegang toestaan"
           }
         },
         "pt-BR" : {
